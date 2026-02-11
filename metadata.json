@@ -1,0 +1,5 @@
+{
+  "name": "AlgoQ Backtesting Hub",
+  "description": "A minimalistic and modern portal for exploring cTrader backtesting reports from a GitHub repository.",
+  "requestFramePermissions": []
+}
